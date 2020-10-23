@@ -674,7 +674,7 @@
   }
 }
 
-@media (max-width: 1140px) {
+@media (max-width: 1100px) {
   .bag {
     padding-left: 0;
     background: none;
@@ -912,10 +912,10 @@
   width: 350px;
   font-size: 13px;
   line-height: 16px;
-  top: 415px;
+  top: 660px;
   font-family: Montserrat, sans-serif;
   position: absolute;
-  left: 120px;
+  left: 975px;
   opacity: 0.7;
   transition: opacity 0.5s ease;
 }
@@ -950,7 +950,7 @@
   font-weight: bold;
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1315px) {
   .pic {
     width: 650px;
   }
@@ -1066,3 +1066,11 @@
     top: 250px;
   }
 }
+
+@media (max-width: 376px) {
+  .total-look__other {
+    left: 155px;
+    top: 530px;
+  }
+}
+
